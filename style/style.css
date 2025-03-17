@@ -23,11 +23,15 @@ li {
 
 @media (max-width: 635px) {
   .form-inline-style button {
-   margin-top: 10% !important;
-  /* margin: 0px !important; */
-margin: 20px  ;
+    margin-top: 5% !important;
+    margin-right: 45% !important;
+
   }
-  
+
+  .form-inline-style .form-control-style {
+    width: 100% !important;
+  }
+
 }
 
 
